@@ -1,4 +1,4 @@
 # malariavar
 # Investigating resistance to novel antimalarials in natural populations
-## Method
+## Summary
 ![](malariavar_summary.png)
